@@ -1,0 +1,7 @@
+services:
+  - type: static
+    name: portfolio
+    buildCommand: ""
+    publishDir: "."
+    branch: main
+    autoDeploy: true
