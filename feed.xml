@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Muhammed Hajib Blog - AI/ML Student at MACE Kothamangalam</title>
+        <link>https://muhammedhajib.live</link>
+        <description>Blog posts by Muhammed Hajib - BTech AI/ML student at MACE Kothamangalam, Kerala. Read about sleep, coding, machine learning, and productivity.</description>
+        <language>en</language>
+        <lastBuildDate>Sun, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://muhammedhajib.live/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>The Secret Relationship Between My Sleep Schedule and My Code (And Why My Laptop Is Jealous)</title>
+            <link>https://muhammedhajib.live/#blog</link>
+            <description>Muhammed Hajib shares the hilarious and insightful story of how his 8-hour sleep routine improved his coding, machine learning models, and productivity at MACE Kothamangalam.</description>
+            <pubDate>Sun, 02 Mar 2026 00:00:00 +0000</pubDate>
+            <author>Muhammed Hajib (hajib@example.com)</author>
+            <guid>https://muhammedhajib.live/#blog</guid>
+            <keywords>Muhammed Hajib, sleep coding, machine learning, productivity, MACE Kothamangalam</keywords>
+        </item>
+    </channel>
+</rss>
